@@ -1,0 +1,5 @@
+10:47:38.615[main] INFO  testCases.TC_AccountRegTest001 - click on checkbox
+10:47:40.243[main] INFO  testCases.TC_AccountRegTest001 - click on Continue button
+10:47:40.301[main] INFO  testCases.TC_AccountRegTest001 - **************validating Account Created Asseration Passed**********************
+10:47:40.334[main] INFO  testCases.TC_AccountRegTest001 - ****************Test finished TC001_AccountRegistrationTest001*************************************
+10:47:43.408[main] INFO  testCases.TC_LoginTest002 - *********Starting TC_LoginTest002**********
