@@ -1,0 +1,52 @@
+10:47:38.615[main] INFO  testCases.TC_AccountRegTest001 - click on checkbox
+10:47:40.243[main] INFO  testCases.TC_AccountRegTest001 - click on Continue button
+10:47:40.301[main] INFO  testCases.TC_AccountRegTest001 - **************validating Account Created Asseration Passed**********************
+10:47:40.334[main] INFO  testCases.TC_AccountRegTest001 - ****************Test finished TC001_AccountRegistrationTest001*************************************
+10:47:43.408[main] INFO  testCases.TC_LoginTest002 - *********Starting TC_LoginTest002**********
+19:54:48.720[main] INFO  testCases.TC_AccountRegTest001 - *****************Starting TC001_AccountRegistrationTest001**********************************
+19:54:48.937[main] INFO  testCases.TC_AccountRegTest001 - click on MyAccount link
+19:54:49.826[main] INFO  testCases.TC_AccountRegTest001 - click on Regiter link
+19:54:50.006[main] INFO  testCases.TC_AccountRegTest001 - Enter firstname
+19:54:50.120[main] INFO  testCases.TC_AccountRegTest001 - Enter lastname
+19:54:50.252[main] INFO  testCases.TC_AccountRegTest001 - Enter Email Address
+19:54:50.361[main] INFO  testCases.TC_AccountRegTest001 - Enter Telephone Number
+19:54:50.482[main] INFO  testCases.TC_AccountRegTest001 - Enter Password
+19:54:50.600[main] INFO  testCases.TC_AccountRegTest001 - confirmed Password
+19:54:50.718[main] INFO  testCases.TC_AccountRegTest001 - click on Radio button
+19:54:50.849[main] INFO  testCases.TC_AccountRegTest001 - click on checkbox
+19:54:53.237[main] INFO  testCases.TC_AccountRegTest001 - click on Continue button
+19:54:53.298[main] INFO  testCases.TC_AccountRegTest001 - **************validating Account Created Asseration Passed**********************
+19:54:53.328[main] INFO  testCases.TC_AccountRegTest001 - ****************Test finished TC001_AccountRegistrationTest001*************************************
+19:54:56.809[main] INFO  testCases.TC_LoginTest002 - *********Starting TC_LoginTest002**********
+19:54:59.451[main] INFO  testCases.TC_LoginTest002 - *********Finish TC_LoginTest002**********
+19:56:52.086[main] INFO  testCases.TC_AccountRegTest001 - *****************Starting TC001_AccountRegistrationTest001**********************************
+19:56:52.275[main] INFO  testCases.TC_AccountRegTest001 - click on MyAccount link
+19:56:52.872[main] INFO  testCases.TC_AccountRegTest001 - click on Regiter link
+19:56:53.190[main] INFO  testCases.TC_AccountRegTest001 - Enter firstname
+19:56:53.319[main] INFO  testCases.TC_AccountRegTest001 - Enter lastname
+19:56:53.501[main] INFO  testCases.TC_AccountRegTest001 - Enter Email Address
+19:56:53.620[main] INFO  testCases.TC_AccountRegTest001 - Enter Telephone Number
+19:56:53.735[main] INFO  testCases.TC_AccountRegTest001 - Enter Password
+19:56:53.838[main] INFO  testCases.TC_AccountRegTest001 - confirmed Password
+19:56:53.941[main] INFO  testCases.TC_AccountRegTest001 - click on Radio button
+19:56:54.028[main] INFO  testCases.TC_AccountRegTest001 - click on checkbox
+19:56:56.317[main] INFO  testCases.TC_AccountRegTest001 - click on Continue button
+19:56:56.375[main] INFO  testCases.TC_AccountRegTest001 - **************validating Account Created Asseration Passed**********************
+19:56:56.408[main] INFO  testCases.TC_AccountRegTest001 - ****************Test finished TC001_AccountRegistrationTest001*************************************
+19:56:59.525[main] INFO  testCases.TC_LoginTest002 - *********Starting TC_LoginTest002**********
+19:57:02.306[main] INFO  testCases.TC_LoginTest002 - *********Finish TC_LoginTest002**********
+19:58:39.181[main] INFO  testCases.TC_AccountRegTest001 - *****************Starting TC001_AccountRegistrationTest001**********************************
+19:58:39.379[main] INFO  testCases.TC_AccountRegTest001 - click on MyAccount link
+19:58:40.165[main] INFO  testCases.TC_AccountRegTest001 - click on Regiter link
+19:58:40.347[main] INFO  testCases.TC_AccountRegTest001 - Enter firstname
+19:58:40.485[main] INFO  testCases.TC_AccountRegTest001 - Enter lastname
+19:58:40.649[main] INFO  testCases.TC_AccountRegTest001 - Enter Email Address
+19:58:40.762[main] INFO  testCases.TC_AccountRegTest001 - Enter Telephone Number
+19:58:40.876[main] INFO  testCases.TC_AccountRegTest001 - Enter Password
+19:58:40.980[main] INFO  testCases.TC_AccountRegTest001 - confirmed Password
+19:58:41.212[main] INFO  testCases.TC_AccountRegTest001 - click on Radio button
+19:58:41.350[main] INFO  testCases.TC_AccountRegTest001 - click on checkbox
+19:58:43.554[main] INFO  testCases.TC_AccountRegTest001 - click on Continue button
+19:58:43.617[main] INFO  testCases.TC_AccountRegTest001 - **************validating Account Created Asseration Passed**********************
+19:58:43.650[main] INFO  testCases.TC_AccountRegTest001 - ****************Test finished TC001_AccountRegistrationTest001*************************************
+19:58:46.655[main] INFO  testCases.TC_LoginTest002 - *********Starting TC_LoginTest002**********

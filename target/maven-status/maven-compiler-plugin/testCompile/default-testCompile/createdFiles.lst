@@ -3,6 +3,7 @@ pageObjects\HomePage.class
 pageObjects\MyAccountPage.class
 utilities\ExcelUtility.class
 testBase\BaseClass.class
+testCases\TC004_Search_product.class
 pageObjects\AccountRegistrationPage.class
 testCases\TC_AccountRegTest001.class
 pageObjects\LoginPage.class

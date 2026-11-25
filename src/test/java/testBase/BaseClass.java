@@ -76,7 +76,7 @@ public String	randomAlphanumeric() {
 	
 		return (generatedstring+generateNumber);
 }
-public String captureScreen(String tname) {
+public String captureScreen(String tname) {  
 	String timestamp=new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 	TakesScreenshot takesScreenshot=(TakesScreenshot) driver;
 	File sourceFile =takesScreenshot.getScreenshotAs(OutputType.FILE);

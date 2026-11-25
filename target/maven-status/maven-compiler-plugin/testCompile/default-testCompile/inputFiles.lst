@@ -5,6 +5,7 @@ C:\Users\OMSAI\eclipse-workspace\OpencartV101\src\test\java\pageObjects\LoginPag
 C:\Users\OMSAI\eclipse-workspace\OpencartV101\src\test\java\pageObjects\MyAccountPage.java
 C:\Users\OMSAI\eclipse-workspace\OpencartV101\src\test\java\testBase\BaseClass.java
 C:\Users\OMSAI\eclipse-workspace\OpencartV101\src\test\java\testCases\TC003_LoginDDT.java
+C:\Users\OMSAI\eclipse-workspace\OpencartV101\src\test\java\testCases\TC004_Search_product.java
 C:\Users\OMSAI\eclipse-workspace\OpencartV101\src\test\java\testCases\TC_AccountRegTest001.java
 C:\Users\OMSAI\eclipse-workspace\OpencartV101\src\test\java\testCases\TC_LoginTest002.java
 C:\Users\OMSAI\eclipse-workspace\OpencartV101\src\test\java\utilities\DataProviders.java
